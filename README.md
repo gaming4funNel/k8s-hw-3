@@ -19,7 +19,7 @@
 1. [Описание](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/) Deployment и примеры манифестов.
 2. [Описание](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/) Init-контейнеров.
 3. [Описание](https://github.com/wbitt/Network-MultiTool) Multitool.
-
+1
 ------
 
 ### Задание 1. Создать Deployment и обеспечить доступ к репликам приложения из другого Pod
